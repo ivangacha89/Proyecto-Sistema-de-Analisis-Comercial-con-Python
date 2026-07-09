@@ -1,4 +1,4 @@
-# Proyecto Final — Sistema de Análisis Comercial con Python
+# Proyecto — Sistema de Análisis Comercial con Python
 
 > Python · pandas · numpy · matplotlib · openpyxl · Google Colab
 
