@@ -224,10 +224,37 @@ df_ventas.loc[condicion_invalida, 'Descuento'] = 0
 | Ventas Reales vs Meta | Barras agrupadas | Meta_Ventas vs Venta_Real, por sucursal | Cumplimiento promedio de **93.0%** |
 | Unidades Reales vs Meta | Barras agrupadas | Meta_Unidades vs Unidades_Real, por sucursal | Cumplimiento promedio de **90.12%** |
 
+- *Ventas por Mes, por Año*
+
+<img src="graficos/ventas_por_mes.png" width="700"/>
+
+- *Ventas por Categoría*
+
 <img src="graficos/ventas_por_categoria.png" width="700"/>
+
+- *Top 10 Productos*
+
 <img src="graficos/top_10_productos.png" width="700"/>
+
+- *Top 10 Vendedores*
+
+<img src="graficos/top_10_vendedores.png" width="700"/>
+
+- *Ventas por Canal*
+
 <img src="graficos/ventas_por_canal.png" width="700"/>
+
+- *Utilidad por Sucursal*
+
+<img src="graficos/utilidad_por_sucursal.png" width="700"/>
+
+- *Ventas Reales vs Meta*
+
 <img src="graficos/ventas_reales_vs_meta.png" width="700"/>
+
+- *Unidades Reales vs Meta*
+
+<img src="graficos/unidades_reales_vs_meta.png" width="700"/>
 
 ---
 
